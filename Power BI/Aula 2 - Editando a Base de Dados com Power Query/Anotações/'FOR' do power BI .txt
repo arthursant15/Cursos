@@ -1,0 +1,1 @@
+O for do power bi consiste em um modelo parecido com o da programação e para faze-lo é bem simples, basta colocar na aba adicionar coluna e depois colocar em coluna condicional e fazer o seu for em relação a tabela do query e no final quando voce terminar ele vai criar uma nova tabela em que vão conter as informações do se.

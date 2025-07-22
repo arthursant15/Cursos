@@ -1,0 +1,7 @@
+eu irei fazer basicamente uma tranformaçao de valores em que consiste em pegar o numero que vai ser transformado da data de nascimento que vai ser em dias e depois passar para ano.
+
+1 etapa: vá na aba adicionar coluna, em seguida em data logo depois em idade, vai criar uma coluna com os valores tudo em dias.
+
+2 etapa: transformar eles em anos, basta ir em transformar em anos, para fazer isso, basta clicar em duração e em seguida colocar em total de anos.
+
+3 etapa: arredondar para cima, para arredondar basta ir na aba transformar e em seguida no botão arredondamento e colocar para arredondar para baixo.
