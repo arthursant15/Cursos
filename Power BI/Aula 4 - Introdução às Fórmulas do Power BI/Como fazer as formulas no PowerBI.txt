@@ -1,0 +1,5 @@
+Para criar uma formula aritmética seja ela de soma, media, min, max e etc, clique com o botão direito em qualquer lugar da tabela, em seguida em nova medida e vai abrir um input em cima, de algum nome coerente para a variável, as formulas no power bi são em ingles ou seja soma SUM, media AVERAGE, mínimo MIN, máximo MAX. 
+
+Coloque dentro dos parênteses a coluna em que voce deseja somar ou fazer parte de quaisquer outra formula, fecha parênteses e da um entrer.
+
+OBS: o resultado da formula não aparece na tabela e sim voce pode colocar ele na parte de gráficos.

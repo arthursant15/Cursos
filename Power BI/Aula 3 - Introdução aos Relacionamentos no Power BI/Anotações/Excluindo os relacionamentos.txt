@@ -1,0 +1,3 @@
+em primeiro caso, iremos excluir os relacionamentos, pois o power bi faz automático e pode ter alguma coisa errada.
+
+Para desativar a detecção automático de relacionamentos das tabelas no power bi, basta seguir o seguinte: Arquivo>Opções e configurações>Opções>Carregamento de dados>Desmarque detectar automaticamente novos relacionamentos depois que os dados são carregados. 

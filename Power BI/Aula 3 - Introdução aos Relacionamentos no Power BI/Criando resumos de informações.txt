@@ -1,1 +1,0 @@
-Para criar um resumo de informações basta colocar em exibições de relatórios e criar visual, depois colocando no desenho matriz e basta arrastar o atributo que você deseje.

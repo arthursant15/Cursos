@@ -1,0 +1,9 @@
+Tabela Fato x Tabela Característica (Dimensão)
+
+Tabela Fato: vai ser uma tabela gigantesca, com milhões de informações que representam registros históricos de alguma coisa, por exemplo a tabela de vendas, pois tem varias linhas/informações.
+
+Tabela Características: São tabelas menores que são o cadastro de alguma coisa, características de alguma coisa.
+
+OBS: Na parte de exibição de modelos seria aconselhado colocar a tabela característica em cima e a tabela fato em baixo 
+
+- PARA FAZER O RELACIONAMENTO DAS TABELAS: so basta arrastar o atributo no outro atributo da outra tabela em que voce desejar, por exemplo id cliente tem nas duas então basta arrastar para o outro id cliente da outra tabela
