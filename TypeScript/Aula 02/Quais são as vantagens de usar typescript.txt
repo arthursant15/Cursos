@@ -1,0 +1,7 @@
+1. O typescript utiliza de tipagem nas variáveis para facilitar a leitura do código, ou seja facilitando a documentação
+
+2. O typescript ajuda a descobrir falhas/bugs
+
+3. comunicação entre times de desenvolvimento 
+
+4. Typescript não altera a performance do código

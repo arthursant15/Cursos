@@ -1,0 +1,17 @@
+tem a função principal de armazenar valores
+
+Formas de otimizar o armazenamento de variáveis, se esse valor vai se alterar mais pra frente, para isso se é necessário ter conhecimento a respeito de tipos de variáveis, como por exemplo:
+
+Variáveis: são usadas de maneira que possa ter alteração mais pra frente caso precise.
+
+Constante: São usadas para serem valores absolutos, ou seja mais pra frente ela não pode ser alterada.
+
+OBS: Antes de pensar que é um numero, string... Voce precisa saber se essa variável vai se comportar como uma constante.
+
+A constante não proíbe alterar lista ou propriedade, quando trabalhamos com objetos, a constante não proíbe de fazer alteração dentro do objeto, mas sim alterar o objeto que esta em uso por outro diferente
+
+- .freeze == quer deixar claro que a propriedade em questão não pode ser alterada, ou seja imutabilidade de objetos.
+
+Let == é uma outra forma de declaração de variável, é um escopo de declaração de variáveis que só podem ser acessadas por meio de blocos, ou seja ela só pode ser acessada dentro do bloco em que ela foi declarado, ao contrario da var que é uma declaração de escopo global.
+
+OBS: É interessante de se usar o const primeiro e se precisar de alguma mudança usar depois o let, o var não se usa com tanta frequência 

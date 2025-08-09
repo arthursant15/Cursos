@@ -1,0 +1,1 @@
+Basicamente falou sobre o if, switch 

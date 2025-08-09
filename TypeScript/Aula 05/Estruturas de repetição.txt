@@ -1,0 +1,5 @@
+For x Forin x ForEach
+
+for: a versão normal do for 
+
+forin: é uma versão simplificada do for 
