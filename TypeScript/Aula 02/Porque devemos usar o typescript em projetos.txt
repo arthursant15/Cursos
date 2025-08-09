@@ -1,0 +1,1 @@
+O typescript foi criado pela Microsoft para o intuito de melhorar o desenvolvimento de aplicações em larga escala

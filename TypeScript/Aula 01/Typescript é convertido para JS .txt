@@ -1,0 +1,5 @@
+Typescript é convertido para JS
+
+syntax sugar == declaração mais legível, da clareza ao código ao declarar as variáveis 
+
+Typescript é um syntax sugar, é necessário transformar o código para o Java Script, esse processo é chamado de transpilação

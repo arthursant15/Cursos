@@ -1,0 +1,3 @@
+O que é typescript?
+
+. É nada mais nada menos que um superset ou seja uma extensão além do java script comum, adicionando assim varias funcionalidades novas.
