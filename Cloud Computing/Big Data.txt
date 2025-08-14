@@ -1,0 +1,33 @@
+O que é:
+
+Big data seria nada mais, nada menos que grandes dados, traduzindo no literal, ou seja grandes quantidades de dados, que não podem ser processadas de formas convencionais 
+
+Tipo de dados: 
+
+estruturados: Sao organizados em colunas
+
+semiestruturados: são organizados em formas heterogêneas 
+
+não estruturados: Mescla dados oriundos de varias fontes como video, texto, audio, imagens, xml e etc.
+
+O big data é usado para: 
+
+. Sistemas de arquivos distribuídos 
+. Processamento Paralelo Massivo 
+. Computação em nuvem 
+. Grids de mineração de dados
+. Redes de altas velocidade 
+. Sistemas de armazenamentos escaláveis 
+. Algoritmos específicos 
+. Inteligência Artificial
+
+Três aspectos dos dados do big data:
+
+. Volume -- A quantidade de dados
+. Velocidade -- Não apenas dados estruturados comuns, mas oriundo de por exemplo pag. web
+. Variedade -- taxa de geração dos dados
+
+Outros Vs 
+
+. Veracidade -- a confiabilidade em relação aos dados tendo que possuir qualidade e legitibidade 
+. Valor -- Analise de dados para com a empresa 
