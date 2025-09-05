@@ -1,0 +1,7 @@
+o ngfor é uma parte do angula que permite com que voce tenha uma estrutura de repetição dentro do seu html como por exemplo: 
+
+<table class="table">
+  <tr>
+    <td *ngFor="let o of vetor">{{ o }}</td>
+  </tr>
+</table>
