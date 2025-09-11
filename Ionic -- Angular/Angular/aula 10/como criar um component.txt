@@ -1,0 +1,3 @@
+para criar um component basta digitar no cmd: ng g c (nome da pasta)
+
+ex: ng g c arquivo/contato
