@@ -1,0 +1,2 @@
+por tag => se usa o {{nome.nome}}
+por atributos => img [scr]= nome.nome [alt] = nome.nome
