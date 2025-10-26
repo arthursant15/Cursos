@@ -8,7 +8,7 @@ import { Livros } from './livros';
   styleUrl: './livro.css'
 })
 export class Livro {
-  //como criar uma propriedade de entrada para que o componente receba informacoes vindas de fora. >> variavel local = entrada.requisicao obrigatoria<nome do export da interfac>()
+  //como criar uma propriedade de entrada para que o componente receba informacoes vindas de fora. >> variavel local = entrada.requisicao obrigatoria<nome do export da interface>()
   livro = input.required<Livros>()
 
   alternarFavorito(){
