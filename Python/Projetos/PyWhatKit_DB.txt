@@ -198,3 +198,28 @@ Time: 23:55
 Phone Number: +5581984100865
 Message: Boa noite!Seja bem-vindo(a) ao ZEISS Vision Center, a loja conceito da marca ZEISS.Oferecemos as melhores soluções em saúde visual, com tecnologia de ponta, precisão alemã e um atendimento totalmente personalizado.Conte conosco para encontrar a lente ideal para o seu estilo de vida e garantir a melhor experiência visual possível.
 --------------------
+Date: 27/10/2025
+Time: 0:6
+Phone Number: +5581984100865
+Message: Boa noite, Sr. Alberto!Aqui é a Arhtur da Zeiss Vision Center Recife.Estou entrando em contato para saber como o senhor está se adaptando aos seus óculos e se eles estão precisando de algum ajuste ou manutenção.Esse serviço é totalmente gratuito e bem rapidinho, enquanto cuidamos dos seus óculos, o senhor pode aproveitar um delicioso cappuccino por nossa conta.Estamos à disposição!
+--------------------
+Date: 27/10/2025
+Time: 0:8
+Phone Number: +5581984100865
+Message: Boa noite, 1 Veronica!Aqui é a Arthur da Zeiss Vision Center Recife.Estou entrando em contato para saber como o senhor está se adaptando aos seus óculos e se eles estão precisando de algum ajuste ou manutenção.Esse serviço é totalmente gratuito e bem rapidinho, enquanto cuidamos dos seus óculos, o senhor pode aproveitar um delicioso cappuccino por nossa conta.Estamos à disposição!
+--------------------
+Date: 27/10/2025
+Time: 0:9
+Phone Number: +5581984100865
+Message: Boa noite, Sra. Veronica!Aqui é a Arthur da Zeiss Vision Center Recife.Estou entrando em contato para saber como o senhor está se adaptando aos seus óculos e se eles estão precisando de algum ajuste ou manutenção.Esse serviço é totalmente gratuito e bem rapidinho, enquanto cuidamos dos seus óculos, o senhor pode aproveitar um delicioso cappuccino por nossa conta.Estamos à disposição!
+--------------------
+Date: 27/10/2025
+Time: 0:10
+Phone Number: +5581984100865
+Message: Boa tarde, Sr. Alberto!Aqui é a Arthur da Zeiss Vision Center Recife.Estou entrando em contato para saber como o senhor está se adaptando aos seus óculos e se eles estão precisando de algum ajuste ou manutenção.Esse serviço é totalmente gratuito e bem rapidinho, enquanto cuidamos dos seus óculos, o senhor pode aproveitar um delicioso cappuccino por nossa conta.Estamos à disposição!
+--------------------
+Date: 27/10/2025
+Time: 0:25
+Phone Number: +5581984100865
+Message: Boa noite!Sou Arthur, a consultora responsável pelo seu atendimento e estou à disposição para ajudá-la no que for necessário. Como posso te auxiliar hoje?
+--------------------
