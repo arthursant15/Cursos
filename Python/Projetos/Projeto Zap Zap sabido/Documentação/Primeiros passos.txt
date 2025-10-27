@@ -1,0 +1,12 @@
+Para inicializar pela primeira vez siga os passos a baixo: 
+
+1- Baixe o python
+2- Instale a biblioteca pywhatkit => python3 -m pip install pywhatkit ou pip3 install pywhatkit
+3- Instale a biblioteca pyautogui => pip install pyautogui
+4- Clique em executar e seja feliz
+
+Bonus:
+
+No cmd -- Procure a pasta em que esta o arquivo .py, ou clique com o botão direito em um espaço vazio da pasta e clique em 'abrir no terminal', visto que irá ser executado pelo power shell, em seguida digite "python zapzap_sabido.py" e pressione enter, logo em seguida será executado o programa.
+
+No vscode -- basta clicar no ícone que se parece com isso ">".
